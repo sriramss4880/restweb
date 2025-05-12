@@ -180,8 +180,8 @@ footer {
 ```
 
 ## OUTPUT:
-![alt text](image.png)
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/e3b99f3c-6eaa-4f80-9dfc-dda0087d9429)
+![image](https://github.com/user-attachments/assets/368ad507-c300-4e35-98f3-9066009a9c07)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
